@@ -1,0 +1,15 @@
+# common properties for yaml 
+
+
+# repository name
+repository:
+    mode: test
+    
+    
+    
+mysql:
+   user: root
+   password: root
+
+
+

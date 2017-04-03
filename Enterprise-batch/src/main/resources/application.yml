@@ -1,0 +1,21 @@
+# common properties for yaml 
+
+
+# repository name
+repository:
+    mode: mysql
+
+mysql:
+    user: root
+    password: root	
+hsqldb:
+    user: sa
+    password:
+    
+
+filelocation:
+        input: D://Mtech/4sem/Input_Folder/
+        output: D://Mtech/4sem/Output_Folder/
+        
+quartz:
+ frequency: 0 0/2 * 1/1 * ? *
